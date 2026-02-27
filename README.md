@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm WISSAL!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Software Engineer] at Sichuan University,Chengdu, china<br/>
+👩🏻‍🎓 Studied [Software Engineering] at Sichuan University,Chengdu, china<br/>
 🎨 An aspiring Full stack engineer based in HongKong<br/>
 💭 Currently learning about Full Stack Engineering and different technologies!<br/>
 
